@@ -14,7 +14,11 @@
 
 -Especially interested in digital forensics and unraveling how incidents happen
 
+- Obsessed with OSINT at the moment 
+
 -Big fan of Darknet Diaries and Digital Forensics Now
+
+- Love and support organizations like Operation Safe Escape and Trace Labs
 <!---
 santakat/santakat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
